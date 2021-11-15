@@ -6,8 +6,10 @@
 1. [Dacon](https://dacon.io/competitions/official/235838/overview/description)
 2. [데이터](https://dacon.io/competitions/official/235838/data)
 
+## 블로그
+[악어새와 좀개구리밥](https://plover.tistory.com/)
 
-## workflow:
+## Workflow:
 
 1. [데이터 준비](./plover_prep_data.ipynb)
 
