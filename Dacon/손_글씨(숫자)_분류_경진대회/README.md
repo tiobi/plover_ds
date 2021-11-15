@@ -2,6 +2,11 @@
 
 ## 대회기간: 2021.11.15 ~ 2021.11.26
 
+## 대회 링크
+1. [Dacon](https://dacon.io/competitions/official/235838/overview/description)
+2. [데이터](https://dacon.io/competitions/official/235838/data)
+
+
 ## workflow:
 
 1. [데이터 준비](./plover_prep_data.ipynb)
